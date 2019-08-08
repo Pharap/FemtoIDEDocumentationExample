@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['system',['System',['../classjava_1_1lang_1_1System.html',1,'java::lang']]]
+  ['hires16color',['HiRes16Color',['../classfemto_1_1mode_1_1HiRes16Color.html',1,'femto::mode']]]
 ];

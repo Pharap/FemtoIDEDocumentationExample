@@ -1,5 +1,31 @@
 var annotated_dup =
 [
+    [ "femto", null, [
+      [ "hardware", null, [
+        [ "EXT", "classfemto_1_1hardware_1_1EXT.html", "classfemto_1_1hardware_1_1EXT" ],
+        [ "IRQ", "interfacefemto_1_1hardware_1_1IRQ.html", "interfacefemto_1_1hardware_1_1IRQ" ],
+        [ "LPC11U68", "classfemto_1_1hardware_1_1LPC11U68.html", null ],
+        [ "ST7775", "classfemto_1_1hardware_1_1ST7775.html", null ]
+      ] ],
+      [ "input", null, [
+        [ "Button", "classfemto_1_1input_1_1Button.html", "classfemto_1_1input_1_1Button" ],
+        [ "ButtonListener", "classfemto_1_1input_1_1ButtonListener.html", null ]
+      ] ],
+      [ "mode", null, [
+        [ "Direct", "classfemto_1_1mode_1_1Direct.html", "classfemto_1_1mode_1_1Direct" ],
+        [ "HiRes16Color", "classfemto_1_1mode_1_1HiRes16Color.html", "classfemto_1_1mode_1_1HiRes16Color" ],
+        [ "ScreenMode", "classfemto_1_1mode_1_1ScreenMode.html", "classfemto_1_1mode_1_1ScreenMode" ]
+      ] ],
+      [ "FrameRef", "classfemto_1_1FrameRef.html", null ],
+      [ "Game", "classfemto_1_1Game.html", null ],
+      [ "Image", "classfemto_1_1Image.html", null ],
+      [ "Prompt", "classfemto_1_1Prompt.html", "classfemto_1_1Prompt" ],
+      [ "Sprite", "classfemto_1_1Sprite.html", "classfemto_1_1Sprite" ],
+      [ "State", "classfemto_1_1State.html", "classfemto_1_1State" ],
+      [ "StateMachine", "classfemto_1_1StateMachine.html", "classfemto_1_1StateMachine" ],
+      [ "StringPair", "classfemto_1_1StringPair.html", "classfemto_1_1StringPair" ],
+      [ "XMLNode", "classfemto_1_1XMLNode.html", null ]
+    ] ],
     [ "java", null, [
       [ "lang", null, [
         [ "Exception", "classjava_1_1lang_1_1Exception.html", null ],

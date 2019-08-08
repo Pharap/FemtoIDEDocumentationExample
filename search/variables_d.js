@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['sct_5fconfig',['SCT_CONFIG',['../classfemto_1_1hardware_1_1LPC11U68.html#a6d7ac1d938e064768afb14bf798fa119',1,'femto::hardware::LPC11U68']]],
+  ['sct_5fctrl',['SCT_CTRL',['../classfemto_1_1hardware_1_1LPC11U68.html#a56a7bc640b5f17748df273d4db964f0d',1,'femto::hardware::LPC11U68']]],
+  ['sienf',['SIENF',['../classfemto_1_1hardware_1_1LPC11U68.html#aa5459b51fb05ad81ccb62a32aa0c6883',1,'femto::hardware::LPC11U68']]],
+  ['sienr',['SIENR',['../classfemto_1_1hardware_1_1LPC11U68.html#a0b1f49a2ae54f2cff713511ad5212445',1,'femto::hardware::LPC11U68']]],
+  ['size',['SIZE',['../classjava_1_1lang_1_1Integer.html#a1429901519f608fbb162883074d6cc1f',1,'java::lang::Integer']]],
+  ['spi0_5fcpsr',['SPI0_CPSR',['../classfemto_1_1hardware_1_1LPC11U68.html#a4efc6473343b5701831c02dc71e6aaeb',1,'femto::hardware::LPC11U68']]],
+  ['spi0_5fcr0',['SPI0_CR0',['../classfemto_1_1hardware_1_1LPC11U68.html#a1bf403d5ef59c7318a9c2e06e2d02081',1,'femto::hardware::LPC11U68']]],
+  ['spi0_5fcr1',['SPI0_CR1',['../classfemto_1_1hardware_1_1LPC11U68.html#a92c48389e4a313da47cbecd8233dd735',1,'femto::hardware::LPC11U68']]],
+  ['ssp0clkdiv',['SSP0CLKDIV',['../classfemto_1_1hardware_1_1LPC11U68.html#ac886afc23dd4d802b336d602d3b27369',1,'femto::hardware::LPC11U68']]],
+  ['sysahbclkctrl',['SYSAHBCLKCTRL',['../classfemto_1_1hardware_1_1LPC11U68.html#a2427d72156cd4c045361f0ca80509ac6',1,'femto::hardware::LPC11U68']]],
+  ['sysahbclkdiv',['SYSAHBCLKDIV',['../classfemto_1_1hardware_1_1LPC11U68.html#a99bae3f5478d26aa5dd1cfdfc4661e18',1,'femto::hardware::LPC11U68']]],
+  ['sysoscctrl',['SYSOSCCTRL',['../classfemto_1_1hardware_1_1LPC11U68.html#adba5f6976bd9621c5615c77c83f48fd6',1,'femto::hardware::LPC11U68']]],
+  ['syspllclksel',['SYSPLLCLKSEL',['../classfemto_1_1hardware_1_1LPC11U68.html#a7f26bed5a77b6ba347137a2b6e25ca1e',1,'femto::hardware::LPC11U68']]],
+  ['syspllclkstat',['SYSPLLCLKSTAT',['../classfemto_1_1hardware_1_1LPC11U68.html#a15f3bc8a7aef0af2eb0016af890b3402',1,'femto::hardware::LPC11U68']]],
+  ['syspllclkuen',['SYSPLLCLKUEN',['../classfemto_1_1hardware_1_1LPC11U68.html#a6657e8dcad84aa45c2ae1cd21e5e7b1a',1,'femto::hardware::LPC11U68']]],
+  ['syspllctrl',['SYSPLLCTRL',['../classfemto_1_1hardware_1_1LPC11U68.html#ae92da4d3a7f023cb3f6992f03da814ff',1,'femto::hardware::LPC11U68']]],
+  ['syspllstat',['SYSPLLSTAT',['../classfemto_1_1hardware_1_1LPC11U68.html#a236756c921e68051f985c3448cedf33a',1,'femto::hardware::LPC11U68']]]
+];
