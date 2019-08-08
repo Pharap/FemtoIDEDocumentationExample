@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['next',['next',['../classjava_1_1util_1_1Random.html#a57f3e047398e65d249ebdd81c7b8b4ad',1,'java::util::Random']]]
+  ['justpressed',['justPressed',['../classfemto_1_1input_1_1Button.html#a7b3af737a8aa34e8ba3c47bb2ca46dc8',1,'femto::input::Button']]]
 ];
