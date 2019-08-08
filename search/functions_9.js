@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['toradians',['toRadians',['../classjava_1_1lang_1_1Math.html#aa64a78f8b9c6551abecdbe78776c032c',1,'java::lang::Math']]],
-  ['totalmemory',['totalMemory',['../classjava_1_1lang_1_1Runtime.html#a5d6ce9d1217670c6af50eb45b044c6a8',1,'java::lang::Runtime']]]
+  ['parseint',['parseInt',['../classjava_1_1lang_1_1Integer.html#a9e2ad06312a5798d4ce689d55347a2d2',1,'java::lang::Integer']]]
 ];
