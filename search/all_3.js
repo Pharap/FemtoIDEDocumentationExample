@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['exception',['Exception',['../classjava_1_1lang_1_1Exception.html',1,'java::lang']]],
-  ['exit',['exit',['../classjava_1_1lang_1_1System.html#aa1a50abe8932a0ae1bf2cff29fdbf08d',1,'java::lang::System']]]
+  ['date',['Date',['../classjava_1_1util_1_1Date.html',1,'java.util.Date'],['../classjava_1_1util_1_1Date.html#a00de56bfafed34c433d1fdbd860a0f70',1,'java.util.Date.Date()'],['../classjava_1_1util_1_1Date.html#af91b75290941542056e7d289a9936921',1,'java.util.Date.Date(long date)']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['floor',['floor',['../classjava_1_1lang_1_1Math.html#a913be5bd38e8910aeb5dab6f25017b88',1,'java::lang::Math']]],
-  ['freememory',['freeMemory',['../classjava_1_1lang_1_1Runtime.html#a6eb1a64eb74c0b35a5f3c3c88be2e488',1,'java::lang::Runtime']]]
+  ['date',['Date',['../classjava_1_1util_1_1Date.html#a00de56bfafed34c433d1fdbd860a0f70',1,'java.util.Date.Date()'],['../classjava_1_1util_1_1Date.html#af91b75290941542056e7d289a9936921',1,'java.util.Date.Date(long date)']]]
 ];
