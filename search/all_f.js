@@ -9,6 +9,7 @@ var searchData=
   ['settextcolor',['setTextColor',['../classfemto_1_1mode_1_1ScreenMode.html#aae459a4a3b83dd660f0c307e407af0ba',1,'femto::mode::ScreenMode']]],
   ['settextposition',['setTextPosition',['../classfemto_1_1mode_1_1ScreenMode.html#aacc0babf8cf671a4fb6318d59fd83d88',1,'femto::mode::ScreenMode']]],
   ['shutdown',['shutdown',['../classfemto_1_1State.html#a2c510dae9a7c743948a15936d638844f',1,'femto::State']]],
+  ['signum',['signum',['../classjava_1_1lang_1_1Math.html#a58bc5362977859a5bf676c24f68bc71e',1,'java::lang::Math']]],
   ['sin',['sin',['../classjava_1_1lang_1_1Math.html#a90b0f36a66e3656427505b91be7ca39e',1,'java::lang::Math']]],
   ['sine_20and_20cosine_20graphical_20representation',['Sine and cosine graphical representation',['../sincosgraphical.html',1,'index']]],
   ['size',['SIZE',['../classjava_1_1lang_1_1Integer.html#a1429901519f608fbb162883074d6cc1f',1,'java::lang::Integer']]],

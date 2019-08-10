@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['palette',['palette',['../classfemto_1_1mode_1_1HiRes16Color.html#a8a17845a5fe2ee07d70112c9d7a6f78c',1,'femto::mode::HiRes16Color']]],
-  ['pi',['PI',['../classjava_1_1lang_1_1Math.html#adf2781d516ce6009cd26e7fcb8d76f82',1,'java::lang::Math']]]
+  ['max_5fvalue',['MAX_VALUE',['../classjava_1_1lang_1_1Integer.html#a60fe20172359fa57d403bb5011d9acca',1,'java::lang::Integer']]],
+  ['min_5fvalue',['MIN_VALUE',['../classjava_1_1lang_1_1Integer.html#a38a4ab16355081f8867458f94c095b9c',1,'java::lang::Integer']]]
 ];

@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['max_5fvalue',['MAX_VALUE',['../classjava_1_1lang_1_1Integer.html#a60fe20172359fa57d403bb5011d9acca',1,'java::lang::Integer']]],
-  ['min_5fvalue',['MIN_VALUE',['../classjava_1_1lang_1_1Integer.html#a38a4ab16355081f8867458f94c095b9c',1,'java::lang::Integer']]]
+  ['left',['Left',['../classfemto_1_1input_1_1Button.html#abc0b4ccd29f9c81152e654fb0454554b',1,'femto::input::Button']]]
 ];

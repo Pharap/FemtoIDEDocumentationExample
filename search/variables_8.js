@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['reset',['Reset',['../classfemto_1_1input_1_1Button.html#a3eaff06da81bb03344c41ad135996462',1,'femto::input::Button']]],
-  ['right',['Right',['../classfemto_1_1input_1_1Button.html#ad7ffc20f83f20a70dfb3d81c3b02ed9c',1,'femto::input::Button']]]
+  ['palette',['palette',['../classfemto_1_1mode_1_1HiRes16Color.html#a8a17845a5fe2ee07d70112c9d7a6f78c',1,'femto::mode::HiRes16Color']]],
+  ['pi',['PI',['../classjava_1_1lang_1_1Math.html#adf2781d516ce6009cd26e7fcb8d76f82',1,'java::lang::Math']]]
 ];
