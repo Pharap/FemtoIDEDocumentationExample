@@ -23,7 +23,7 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "Femto IDE Java API", "index.html", [
+  [ "FemtoIDE Java API", "index.html", [
     [ "Examples", "index.html", "index" ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],

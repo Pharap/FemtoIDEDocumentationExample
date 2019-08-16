@@ -1,5 +1,7 @@
 var searchData=
 [
-  ['random',['Random',['../classjava_1_1util_1_1Random.html#ac8db3eb58101b7d7e26b8cefdb88ecee',1,'java.util.Random.Random()'],['../classjava_1_1util_1_1Random.html#ad30acb8812b53738dd28e82158579062',1,'java.util.Random.Random(uint seed)'],['../classjava_1_1lang_1_1Math.html#a5fb2d97d34f5a4d0dee50325d577105e',1,'java.lang.Math.random()'],['../classjava_1_1lang_1_1Math.html#a29e066b5718de059f1e7fec91570748e',1,'java.lang.Math.random(int min, int max)']]],
-  ['rgb',['rgb',['../classfemto_1_1mode_1_1Direct.html#af18525ac884d8c246de2474a8153e958',1,'femto::mode::Direct']]]
+  ['parseint',['parseInt',['../classjava_1_1lang_1_1Integer.html#a9e2ad06312a5798d4ce689d55347a2d2',1,'java::lang::Integer']]],
+  ['play',['play',['../classfemto_1_1sound_1_1Procedural.html#a548853cff8b16d8e8acc10e83eb90098',1,'femto::sound::Procedural']]],
+  ['preinit',['preinit',['../classfemto_1_1State.html#a2d6a2bc6af77d376c1f0396318f8aa32',1,'femto::State']]],
+  ['procedural',['Procedural',['../classfemto_1_1sound_1_1Procedural.html#a7b49a572fb60864eac0be21b69dc1453',1,'femto.sound.Procedural.Procedural()'],['../classfemto_1_1sound_1_1Procedural.html#a2690caea869dab5a7bfa7b95cc95a8d7',1,'femto.sound.Procedural.Procedural(char channel)']]]
 ];

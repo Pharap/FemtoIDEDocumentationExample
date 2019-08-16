@@ -7,7 +7,7 @@ var classfemto_1_1hardware_1_1EXT =
     [ "repeater", "classfemto_1_1hardware_1_1EXT.html#a80337069ae0dab540df0b407f3a9af06", null ],
     [ "setInput", "classfemto_1_1hardware_1_1EXT.html#a170443597bde15e94c7831d2597b4b84", null ],
     [ "setOutput", "classfemto_1_1hardware_1_1EXT.html#af465d400dace5399e078ddec26a6a8f6", null ],
-    [ "setSpecial", "classfemto_1_1hardware_1_1EXT.html#ac38adef7010d3f4c13d6c9f6038dc9fb", null ],
-    [ "special", "classfemto_1_1hardware_1_1EXT.html#a3e42059d0a26352f561855d4279b423a", null ],
+    [ "setSpecial", "classfemto_1_1hardware_1_1EXT.html#aed3cbcd8f31c8aa387d19ecbaf1a18cf", null ],
+    [ "special", "classfemto_1_1hardware_1_1EXT.html#aff5d001a7bb98c9768f8a21cda74970c", null ],
     [ "write", "classfemto_1_1hardware_1_1EXT.html#ab2c270580eaa5229c8f214c4017d335f", null ]
 ];

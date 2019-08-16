@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.15"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Femto IDE Java API: femto.hardware.EXT Class Reference</title>
+<title>FemtoIDE Java API: femto.hardware.EXT Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -34,8 +34,8 @@
  <tbody>
  <tr style="height: 56px;">
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">Femto IDE Java API
-   &#160;<span id="projectnumber">v0.1.0</span>
+   <div id="projectname">FemtoIDE Java API
+   &#160;<span id="projectnumber">v0.0.18b</span>
    </div>
   </td>
    <td>        <div id="MSearchBox" class="MSearchBoxInactive">
@@ -119,12 +119,12 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>pullUp</b> ()</td></t
 <tr class="memitem:a80337069ae0dab540df0b407f3a9af06"><td class="memItemLeft" align="right" valign="top"><a id="a80337069ae0dab540df0b407f3a9af06"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>repeater</b> ()</td></tr>
 <tr class="separator:a80337069ae0dab540df0b407f3a9af06"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac38adef7010d3f4c13d6c9f6038dc9fb"><td class="memItemLeft" align="right" valign="top"><a id="ac38adef7010d3f4c13d6c9f6038dc9fb"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>setSpecial</b> (uint func)</td></tr>
-<tr class="separator:ac38adef7010d3f4c13d6c9f6038dc9fb"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a3e42059d0a26352f561855d4279b423a"><td class="memItemLeft" align="right" valign="top"><a id="a3e42059d0a26352f561855d4279b423a"></a>
-uint&#160;</td><td class="memItemRight" valign="bottom"><b>special</b> (uint v)</td></tr>
-<tr class="separator:a3e42059d0a26352f561855d4279b423a"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aed3cbcd8f31c8aa387d19ecbaf1a18cf"><td class="memItemLeft" align="right" valign="top"><a id="aed3cbcd8f31c8aa387d19ecbaf1a18cf"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>setSpecial</b> (int func)</td></tr>
+<tr class="separator:aed3cbcd8f31c8aa387d19ecbaf1a18cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aff5d001a7bb98c9768f8a21cda74970c"><td class="memItemLeft" align="right" valign="top"><a id="aff5d001a7bb98c9768f8a21cda74970c"></a>
+int&#160;</td><td class="memItemRight" valign="bottom"><b>special</b> (int v)</td></tr>
+<tr class="separator:aff5d001a7bb98c9768f8a21cda74970c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a170443597bde15e94c7831d2597b4b84"><td class="memItemLeft" align="right" valign="top"><a id="a170443597bde15e94c7831d2597b4b84"></a>
 void&#160;</td><td class="memItemRight" valign="bottom"><b>setInput</b> ()</td></tr>
 <tr class="separator:a170443597bde15e94c7831d2597b4b84"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -195,7 +195,7 @@ Static Public Attributes</h2></td></tr>
   </tr>
 </table>
 </div><div class="memdoc">
-<b>Initial value:</b><div class="fragment"><div class="line">= <span class="keyword">new</span> EXT(1, 19){</div><div class="line">            <span class="keywordtype">void</span> setFunction(){</div><div class="line">                STR(LPC11U68.PIO1_19, func | (mode&lt;&lt;3) | (invert&lt;&lt;6) | (1&lt;&lt;7));</div><div class="line">            }</div><div class="line"></div><div class="line">            </div><div class="line">            <span class="keyword">public</span> <span class="keywordtype">void</span> setSpecial(uint func){ </div><div class="line">                <span class="keywordflow">if</span>(func == 0) func = 2;</div><div class="line">                this.func = func;</div><div class="line">                setFunction();</div><div class="line">            }</div><div class="line">        }</div></div><!-- fragment -->
+<b>Initial value:</b><div class="fragment"><div class="line">= <span class="keyword">new</span> EXT(1, 19){</div><div class="line">            <span class="keywordtype">void</span> setFunction(){</div><div class="line">                STR(LPC11U68.PIO1_19, func | (mode&lt;&lt;3) | (invert&lt;&lt;6) | (1&lt;&lt;7));</div><div class="line">            }</div><div class="line"></div><div class="line">            </div><div class="line">            <span class="keyword">public</span> <span class="keywordtype">void</span> setSpecial(<span class="keywordtype">int</span> func){ </div><div class="line">                <span class="keywordflow">if</span>(func == 0) func = 2;</div><div class="line">                this.func = func;</div><div class="line">                setFunction();</div><div class="line">            }</div><div class="line">        }</div></div><!-- fragment -->
 </div>
 </div>
 <a id="a4788318cb868506446ac95d1352814e3"></a>
